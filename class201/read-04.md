@@ -54,3 +54,4 @@
 
 ## FUNCTION EXPRESSIONS 
 **If you put a function where the interpreter would expect to see an expression, then it is treated as an expression, and it is known as a function expression**
+ > Programmers use functions, methods, and objects to organize their code. 
