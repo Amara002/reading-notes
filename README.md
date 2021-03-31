@@ -21,5 +21,5 @@
 |-------------|---------------------------------------------------------------|
 |  lab01a     |[Introductory HTML and JavaScript](introductory.md)            |
 |  Read-02    |[Basics of HTML, CSS & JS](read-02.md)                         |
-|  Read-03    |[HTML Lists, CSS Boxes,JS Control Flow](read-03.md)            |
+|  Read-03    |[HTML Lists, CSS Boxes,JS Control Flow](class201/read-03.md)            |
 |  Read-03    |[HTML Links, JS Functions, and Intro to CSS Layout](read-04.md)|
