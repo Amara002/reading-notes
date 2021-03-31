@@ -4,22 +4,23 @@
 
 ## Code 102 Reading Notes
 
-| Assignments |     Link                                 |
-|-------------|------------------------------------------|
-|  lab02a     |[Learning Markdown](lab02a.md)            |
-|  read01     |[The coder's computer](read01.md)         |
-|  read02a    |[Learning Markdown](read02a.md)           |
-|  read02b    |[Revision and the cloud](read02b.md)      |
-|  read03     |[Structure web pages with HTML](read03.md)|
-|  read04a    |[Programming with JavaScript](read04a.md) |
-|  read05     |[operators & loops](read05.md)            |
-|  read06     |[Design web pages with css](read06.md)    |
+| Assignments |     Link                                          |
+|-------------|---------------------------------------------------|
+|  lab02a     |[Learning Markdown](class102/lab02a.md)            |
+|  read01     |[The coder's computer](class102/read01.md)         |
+|  read02a    |[Learning Markdown](class102/read02a.md)           |
+|  read02b    |[Revision and the cloud](class102/read02b.md)      |
+|  read03     |[Structure web pages with HTML](class102/read03.md)|
+|  read04a    |[Programming with JavaScript](class102/read04a.md) |
+|  read05     |[operators & loops](class102/read05.md)            |
+|  read06     |[Design web pages with css](class102/read06.md)    |
 
 ## Code 201 Reading Notes
 
-| Assignments |     Link                                                      |
-|-------------|---------------------------------------------------------------|
-|  lab01a     |[Introductory HTML and JavaScript](introductory.md)            |
-|  Read-02    |[Basics of HTML, CSS & JS](read-02.md)                         |
+| Assignments |     Link                                                               |
+|-------------|------------------------------------------------------------------------|
+|  lab01a     |[Introductory HTML and JavaScript](class201/introductory.md)            |
+|  Read-02    |[Basics of HTML, CSS & JS](class201/read-02.md)                         |
 |  Read-03    |[HTML Lists, CSS Boxes,JS Control Flow](class201/read-03.md)            |
-|  Read-03    |[HTML Links, JS Functions, and Intro to CSS Layout](read-04.md)|
+|  Read-04    |[HTML Links, JS Functions, and Intro to CSS Layout](class201/read-04.md)|
+|  Read-05    |[HTML Images; CSS Color & Text](class201/read-05.md)                    |
