@@ -25,3 +25,4 @@
 |  Read-04    |[HTML Links, JS Functions, and Intro to CSS Layout](class201/read-04.md)|
 |  Read-05    |[HTML Images; CSS Color & Text](class201/read-05.md)                    |
 |  Read-06    |[JS Object Literals; The DOM](class201/read-06.md)                      |
+|  Read-07    |[HTML Tables; JS Constructor Functions](class201/read-07.md)            |
