@@ -33,13 +33,3 @@
 
 ## Multiple Style sheets
 **link: On this page you can see the other technique for including multiple style sheets. Inside the '< head >' element is a separate '< link >' element for each style sheet.**
-
-# Functions
-***Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).***
-
-## ANONYMOUS FUNCTIONS
-**A function declaration creates a function that you can call later in your code. In order to call the function later in your code, you must give it a name, so these are known as named functions.**
-
-## FUNCTION EXPRESSIONS 
-**If you put a function where the interpreter would expect to see an expression, then it is treated as an expression, and it is known as a function expression**
- > Programmers use functions, methods, and objects to organize their code. 
