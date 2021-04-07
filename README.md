@@ -28,3 +28,4 @@
 |  Read-07    |[HTML Tables; JS Constructor Functions](class201/read-07.md)            |
 |  Read-08    |[More CSS Layout](class201/read-08.md)                                  |
 |  Read-09    |[Forms and JS Events](class201/read-09.md)                              |
+|  Read-10    |[Debugging](class201/read-10.md)                                        |
