@@ -29,3 +29,4 @@
 |  Read-08    |[More CSS Layout](class201/read-08.md)                                  |
 |  Read-09    |[Forms and JS Events](class201/read-09.md)                              |
 |  Read-10    |[Debugging](class201/read-10.md)                                        |
+|  Read-11    |[ Assorted Topics](class201/read-11.md)                                 |
