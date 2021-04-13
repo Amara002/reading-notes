@@ -30,4 +30,4 @@
 |  Read-09    |[Forms and JS Events](class201/read-09.md)                              |
 |  Read-10    |[Debugging](class201/read-10.md)                                        |
 |  Read-11    |[ Assorted Topics](class201/read-11.md)                                 |
-|  Read-12    |[Docs for the HTML <canvas> Element & Chart.js](class201/read-12.md)    |
+|  Read-12    |[Docs for the HTML '< canvas >' Element & Chart.js](class201/read-12.md)|
