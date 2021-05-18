@@ -36,6 +36,7 @@
 |  Read-14    |[What Google Learned About Teams](class201/read-14.md)                  |
 
 ## Code 301 Reading Notes
+
 | Assignments |     Link                                                               |
 |-------------|------------------------------------------------------------------------|
 |  read-03    |[Passing Functions as Props](class301/read-03.md)                       |
