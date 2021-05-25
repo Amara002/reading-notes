@@ -45,3 +45,4 @@
 | read-05     |[Thinking in React](class301/read-05.md)                                |
 | read-06     |[Node.js and Reasons for Pair Programming](class301/read-06.md)         |
 | read-07     |[Rest & API Keys](class301/read-07.md)                                  |
+| read-08     |[API Design Best Practices](class301/read-08.md)                        |
