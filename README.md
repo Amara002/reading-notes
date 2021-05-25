@@ -39,5 +39,6 @@
 
 | Assignments |     Link                                                               |
 |-------------|------------------------------------------------------------------------|
-|  read-03    |[Passing Functions as Props](class301/read-03.md)                       |
+| read-02     |[state&props](class301/read-02.md)                                      |
+| read-03     |[Passing Functions as Props](class301/read-03.md)                       |
  
