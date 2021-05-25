@@ -11,7 +11,7 @@
 ***Now that you have your component hierarchy, it’s time to implement your app. The easiest way is to build a version that takes your data model and renders the UI but has no interactivity. It’s best to decouple these processes because building a static version requires a lot of typing and no thinking, and adding interactivity requires a lot of thinking and not a lot of typing.***
 
 4. **Once you have a static application, what do you need to add?**
-***Add Inverse Data Flow ***
+***Add Inverse Data Flow***
 
 5. **What are the three questions you can ask to determine if something is state?**
 
