@@ -43,3 +43,4 @@
 | read-03     |[Passing Functions as Props](class301/read-03.md)                       |
 | read-04     |[forms and ternary operator](class301/read-04.md)                       |
 | read-05     |[Thinking in React](class301/read-05.md)                                |
+| read-06     |[Node.js and Reasons for Pair Programming](class301/read-06.md)         |
