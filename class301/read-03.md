@@ -22,9 +22,9 @@
    - ***Using Math functions.***
    - ***Using an array as arguments.*** 
 
-3. **Give an example of using the spread operator to combine two arrays.**
-***const arr1 = [1,2,3]***
-***const arr2 = [4,5,6]***
+3. **Give an example of using the spread operator to combine two arrays.**<br>
+***const arr1 = [1,2,3]***<br>
+***const arr2 = [4,5,6]***<br>
 ***const arr3 = [...arr1, ...arr2] //arr3 ==> [1,2,3,4,5,6]***
 
 4. **Give an example of using the spread operator to add a new item to an array.**
