@@ -42,4 +42,4 @@
 | read-02     |[state&props](class301/read-02.md)                                      |
 | read-03     |[Passing Functions as Props](class301/read-03.md)                       |
 | read-04     |[forms and ternary operator](class301/read-04.md)                       |
- 
+| read-05     |[Thinking in React](class301/read-05.md)                                |
