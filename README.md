@@ -46,3 +46,7 @@
 | read-06     |[Node.js and Reasons for Pair Programming](class301/read-06.md)         |
 | read-07     |[Rest & API Keys](class301/read-07.md)                                  |
 | read-08     |[API Design Best Practices](class301/read-08.md)                        |
+| read-09     |[state&props](class301/read-02.md)                                      |
+| read-10     |[state&props](class301/read-02.md)                                      |
+| read-11     |[state&props](class301/read-02.md)                                      |
+| read-12     |[sql vs nosql](class301/read-12.md)                                     |
