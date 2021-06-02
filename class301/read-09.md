@@ -26,7 +26,7 @@
 ***The builtin require function is the easiest way to include modules that exist in separate files. The basic functionality of require is that it reads a JavaScript file, executes the file, and then proceeds to return the exports object.***
 
 3. **How do we bring another module into the file the we are working in?**
-***By using require ***
+***By using require***
 
 4. **What do we have to do to make a module available?**
 ***export the module and specify what I want to export.***
