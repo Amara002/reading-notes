@@ -1,6 +1,6 @@
 # About myself
 
-***I am Amara Al Balkhi. I would like to learn programming to help myself and my society to reach the top between the countries that the programming maybe become another language for in the near future My*** [github profile](https://github.com/Amara994)
+***I am Amara Al Balkhi. I would like to learn programming to help myself and my society to reach the top between the countries that the programming maybe become another language for in the near future My*** [github profile](https://github.com/Amara002)
 
 ## Code 102 Reading Notes
 
@@ -46,7 +46,8 @@
 | read-06     |[Node.js and Reasons for Pair Programming](class301/read-06.md)         |
 | read-07     |[Rest & API Keys](class301/read-07.md)                                  |
 | read-08     |[API Design Best Practices](class301/read-08.md)                        |
-| read-09     |[state&props](class301/read-02.md)                                      |
-| read-10     |[state&props](class301/read-02.md)                                      |
-| read-11     |[state&props](class301/read-02.md)                                      |
+| read-09     |[FUNCTIONAL PROGRAMMING](class301/read-09.md)                           |
+| read-10     |[memory storage](class301/read-10.md)                                   |
+| read-11     |[Authentication](class301/read-11.md)                                   |
 | read-12     |[sql vs nosql](class301/read-12.md)                                     |
+| read-13     |[CRUD](class301/read-13.md)                                             |
