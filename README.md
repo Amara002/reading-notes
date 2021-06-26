@@ -52,3 +52,8 @@
 | read-11     |[Authentication](class301/read-11.md)                                   |
 | read-12     |[sql vs nosql](class301/read-12.md)                                     |
 | read-13     |[CRUD](class301/read-13.md)                                             |
+
+## Code 401 Reading Notes
+| Assignments |     Link                                                               |
+|-------------|------------------------------------------------------------------------|
+| read-01     |[Java Basics](class401/read01.md)                                       |
