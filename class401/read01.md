@@ -9,7 +9,7 @@
 - ***Naming:If the name you choose consists of only one word, spell that word in all lowercase letters. If it consists of more than one word, capitalize the first letter of each subsequent word. The names gearRatio and currentGear are prime examples of this convention. If your variable stores a constant value, such as static final int NUM_GEARS = 6, the convention changes slightly, capitalizing every letter and separating subsequent words with the underscore character. By convention, the underscore character is never used elsewhere.***
 
 ## Operators
-![Operators](./class401/OperatorJava.PNG)
+![Operators](../img.jpg)
 
 
 ## Expressions, Statements, and Blocks

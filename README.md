@@ -54,6 +54,8 @@
 | read-13     |[CRUD](class301/read-13.md)                                             |
 
 ## Code 401 Reading Notes
+
+
 | Assignments |     Link                                                               |
 |-------------|------------------------------------------------------------------------|
 | read-01     |[Java Basics](class401/read01.md)                                       |
