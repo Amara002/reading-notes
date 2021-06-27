@@ -59,3 +59,4 @@
 | Assignments |     Link                                                               |
 |-------------|------------------------------------------------------------------------|
 | read-01     |[Java Basics](class401/read01.md)                                       |
+| read-02     |[Arrays, Loops, Imports](class401/read02.md)                            |
