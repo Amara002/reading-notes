@@ -60,3 +60,4 @@
 |-------------|------------------------------------------------------------------------|
 | read-01     |[Java Basics](class401/read01.md)                                       |
 | read-02     |[Arrays, Loops, Imports](class401/read02.md)                            |
+| read-03     |[Maps, primitives, File I/O](class401/read03.md)                        |
