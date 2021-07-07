@@ -65,5 +65,6 @@
 | read-05     |[Linked Lists](class401/read05.md)                                      |
 | read-06     |[Inheritance and Interfaces](class401/read06.md)                        |
 | read-08     |[OO Design](class401/read08.md)                                         |
+| read-10     |[Stacks & Queues](class401/read10.md)                                   |
 
 
