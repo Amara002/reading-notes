@@ -65,6 +65,15 @@
 | read-05     |[Linked Lists](class401/read05.md)                                      |
 | read-06     |[Inheritance and Interfaces](class401/read06.md)                        |
 | read-08     |[OO Design](class401/read08.md)                                         |
+| read-09     |[WRRC and Java](class401/read09.md)                                     |
 | read-10     |[Stacks & Queues](class401/read10.md)                                   |
+| read-11     |[Spring](class401/read11.md)                                            |
+| read-12     |[Spring RESTful Routing & Static Files](class401/read12.md)             |
+| read-13     |[Related Resources and Integration Testing](class401/read13.md)         |
+| read-14     |[Trees](class401/read14.md)                                             |
+
+
+
+
 
 
