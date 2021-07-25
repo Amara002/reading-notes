@@ -71,6 +71,7 @@
 | read-12     |[Spring RESTful Routing & Static Files](class401/read12.md)             |
 | read-13     |[Related Resources and Integration Testing](class401/read13.md)         |
 | read-14     |[Trees](class401/read14.md)                                             |
+| read-16     |[Spring Authentication](class401/read16.md)                             |
 
 
 
