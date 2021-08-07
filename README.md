@@ -72,7 +72,10 @@
 | read-13     |[Related Resources and Integration Testing](class401/read13.md)         |
 | read-14     |[Trees](class401/read14.md)                                             |
 | read-16     |[Spring Authentication](class401/read16.md)                             |
-
+| read-17     |[Spring Authorization](class401/read17.md)                              |
+| read-18     |[Web App Security](class401/read18.md)                                  |
+| read-19     |[Spring and Sockets](class401/read19.md)                                |
+| read-26     |[Android Fundamentals](class401/read26.md)                              |
 
 
 
