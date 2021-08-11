@@ -76,6 +76,8 @@
 | read-18     |[Web App Security](class401/read18.md)                                  |
 | read-19     |[Spring and Sockets](class401/read19.md)                                |
 | read-26     |[Android Fundamentals](class401/read26.md)                              |
+| read-27     |[Intents, Activities, and SharedPreferences](class401/read27.md)        |
+| read-28     |[RecyclerView](class401/read28.md)                                      |
 
 
 
