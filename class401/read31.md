@@ -14,7 +14,7 @@
 2. ***In the Select Deployment Target window, choose the device on which you want to record the test. If necessary, create a new Android Virtual Device. Click OK.***
 3. ***Espresso Test Recorder triggers a build of your project, and the app must install and launch before Espresso Test Recorder allows you to interact with it. The Record Your Test window appears after the app launches, and since you have not interacted with the device yet, the main panel reads "No events recorded yet." Interact with your device to start logging events such as "tap" and "type" actions.***
 
- # Add assertions to verify UI elements
+# Add assertions to verify UI elements
 
 ***Assertions verify the existence or contents of a View element through three main types:***
 

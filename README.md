@@ -82,6 +82,7 @@
 | read-30     |[Hash Tables](class401/read30.md)                                       |
 | read-31     |[Espresso](class401/read31.md)                                          |
 | read-32     |[Serverless and Amplify](class401/read32.md)                            |
+| read-33     |[GraphQL @connection](class401/read33.md)                               |
 
 
 
