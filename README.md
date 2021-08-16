@@ -80,6 +80,7 @@
 | read-28     |[RecyclerView](class401/read28.md)                                      |
 | read-29     |[Room](class401/read29.md)                                              |
 | read-30     |[Hash Tables](class401/read30.md)                                       |
+| read-31     |[Espresso](class401/read31.md)                                          |
 
 
 
