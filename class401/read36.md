@@ -14,6 +14,6 @@
 ***Add the following dependency to your app's build.gradle along with others you added above in Prerequisites and click "Sync Now" when prompted:***<br>
 
 `dependencies {`<br>
-  `  implementation 'com.amplifyframework:aws-auth-cognito:1.24.0'`<br>
+  `  implementation 'com.amplifyframework:aws-auth-cognito:1.24.0'` <br>
 `}`<br>
 
