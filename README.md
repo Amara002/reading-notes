@@ -83,8 +83,8 @@
 | read-31     |[Espresso](class401/read31.md)                                          |
 | read-32     |[Serverless and Amplify](class401/read32.md)                            |
 | read-33     |[GraphQL @connection](class401/read33.md)                               |
-
-
-
+| read-34     |[Monetization](class401/read34.md)                                      |
+| read-35     |[Graphs](class401/read35.md)                                            |
+| read-36     |[Cognito](class401/read36.md)                                           |
 
 
