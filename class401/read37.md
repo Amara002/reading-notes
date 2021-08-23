@@ -1,5 +1,5 @@
 # S3
-***Amazon Simple Storage Service (Amazon S3) is storage for the Internet. It is designed to make web-scale computing easier. ***
+***Amazon Simple Storage Service (Amazon S3) is storage for the Internet. It is designed to make web-scale computing easier***
 
 ## Advantages of using Amazon S3
 
