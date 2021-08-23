@@ -87,5 +87,7 @@
 | read-35     |[Graphs](class401/read35.md)                                            |
 | read-36     |[Cognito](class401/read36.md)                                           |
 | read-37     |[S3](class401/read37.md)                                                |
+| read-38     |[Notifications](class401/read38.md)                                     |
+| read-39     |[Kinesis](class401/read39.md)                                           |
 
 
