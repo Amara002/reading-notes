@@ -89,5 +89,9 @@
 | read-37     |[S3](class401/read37.md)                                                |
 | read-38     |[Notifications](class401/read38.md)                                     |
 | read-39     |[Kinesis](class401/read39.md)                                           |
+| read-41     |[Intent Filters](class401/read41.md)                                    |
+| read-42     |[Location](class401/read42.md)                                          |
+| read-43     |[Kinesis & Analytics](class401/read43.md)                               |
+
 
 
