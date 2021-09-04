@@ -92,6 +92,7 @@
 | read-41     |[Intent Filters](class401/read41.md)                                    |
 | read-42     |[Location](class401/read42.md)                                          |
 | read-43     |[Kinesis & Analytics](class401/read43.md)                               |
+| read-44     |[Ethics in Tech](class401/read44.md)                                    |
 
 
 
